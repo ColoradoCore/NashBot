@@ -1,0 +1,15 @@
+{
+  "name": "nashbot",
+  "version": "1.0.0",
+  "description": "Chat bot to help guide users around Nashvegas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryce Wieman",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
